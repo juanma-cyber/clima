@@ -30,7 +30,7 @@ const WeatherApp = () => {
   };
 
   return (
-    <div className="container" style={{ backgroundImage: 'url("/images/joldeon-3.PNG")' }}>
+    <div className="container">
       <h1>Weather App</h1>
       <input
         type="text"
